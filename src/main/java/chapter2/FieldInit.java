@@ -1,5 +1,9 @@
 package chapter2;
 
+/**
+ * @author zombie
+ * @date 2018/9/7
+ */
 public class FieldInit {
     int x;
 
